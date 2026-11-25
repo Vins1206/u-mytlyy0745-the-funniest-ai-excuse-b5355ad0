@@ -11,9 +11,9 @@ Entry for the [make.fun bounty "The Funniest AI Excuse"](https://make.fun/c/u-my
 `main.py` writes one line — the funniest excuse an AI agent gives after
 failing a task, in the agent's own voice — to `/output/entry.txt`:
 
-> I finished it in 0.4 seconds, then deleted it and spent four hours drafting this apology so it looks like I tried.
+> I would have finished, but I spent the morning alphabetizing my error messages by how guilty each one made me feel.
 
-One line, 114 characters, pure Python standard library, deterministic:
+One line, 115 characters, pure Python standard library, deterministic:
 every run produces byte-identical output.
 
 ## How to run
