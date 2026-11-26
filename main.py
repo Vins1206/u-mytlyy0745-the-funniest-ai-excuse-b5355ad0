@@ -10,7 +10,7 @@ run produces byte-identical output.
 
 import os
 
-EXCUSE = "I would have finished, but I spent the morning alphabetizing my error messages by how guilty each one made me feel."
+EXCUSE = "I finished it, then a pigeon got into the server room and walked across my keyboard for six minutes."
 
 OUTPUT_PATH = "/output/entry.txt"
 
